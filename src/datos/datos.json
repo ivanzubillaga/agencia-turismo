@@ -1,0 +1,38 @@
+
+[{
+
+    "companias": [
+      {
+        "id": "0",
+        "name": "Qatar Airways",
+        "icon": "/images/Qatar-Airways-Logo.png"
+      },
+      {
+        "id": "1",
+        "name": "Air France",
+        "icon": "/images/Air-France-Logo.png"
+      },
+      {
+        "id": "2",
+        "name": "Air Canada",
+        "icon": "/images/Air-Canada-Logo.png"
+      },
+      {
+        "id": "3",
+        "name": "Avianca",
+        "icon": "/images/Avianca-Logo.png"
+      },
+      {
+        "id": "4",
+        "name": "Airbus",
+        "icon": "/images/Airbus-Logo.png"
+      },
+      {
+        "id": "5",
+        "name": "Emirates",
+        "icon": "/images/Emirates-Logo.png"
+      }
+      
+
+    ]
+}]
